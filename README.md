@@ -16,6 +16,8 @@
 
 Fingerprint: 9AB58E301FE8EB6FB1BAB11C1FB723A707042D07
 
+[Download from GitHub](https://github.com/nicholasdille.gpg)
+
 [Download from keyserver](https://keys.openpgp.org/vks/v1/by-fingerprint/9AB58E301FE8EB6FB1BAB11C1FB723A707042D07)
 
 Proof of ownership using [keyoxide](https://keyoxide.org/9ab58e301fe8eb6fb1bab11c1fb723a707042d07)
